@@ -1,0 +1,10 @@
+name: sf_env
+channels:
+- snowflake
+dependencies:
+- plotly
+- streamlit
+- pandas
+- numpy
+- altair
+- datetime
